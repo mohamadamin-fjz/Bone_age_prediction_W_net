@@ -5,4 +5,6 @@ In thhis repository , at first i implemented a w-net on the radiographs of the h
 bottlenecks of the project:
 the important bottle neck is that for such a unsupervised model i need trainig for really high number of epochs and gpu resources.
 The training reults and plots is on the results jpeg file
+![image](https://github.com/user-attachments/assets/15bd3474-59bb-4d41-835b-d9bf68ddcfb9)
+
 
